@@ -42,4 +42,10 @@ func main() {
 	fmt.Printf("static val is : %v\n", StaticRecursion(5))
 
 	fmt.Println(SumRecursion(10))
+
+	fmt.Println(Factorial(5))
+
+	fmt.Println(Power(2, 10))
+
+	fmt.Println(PowerMod(2, 4))
 }
