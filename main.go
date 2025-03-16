@@ -39,5 +39,7 @@ func main() {
 
 	ResucrseFunc(5)
 
-	fmt.Printf("static val is : %v", StaticRecursion(5))
+	fmt.Printf("static val is : %v\n", StaticRecursion(5))
+
+	fmt.Println(SumRecursion(10))
 }
