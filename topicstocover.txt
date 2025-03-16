@@ -1,0 +1,33 @@
+Arrays: 
+    static vs dynamic arrays
+    stacks and queues  
+
+
+Linked list:
+    singly LL
+    double LL
+    queues 
+
+Recursion:
+    factorials
+    fibonacci series 
+
+Sorting :
+    Insertion sort  
+    Merge sort 
+    quick sort
+    bucker sort 
+
+Binary search
+    search array
+    search range 
+
+Treesw 
+    Binary tree 
+    BST 
+    BST insert and remove functions 
+    DFs
+    BFS
+    BST (maps and  sets)
+
+    
